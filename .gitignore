@@ -1,0 +1,21 @@
+# Dependencias instaladas por npm
+/node_modules
+
+# Caché generada por npm
+npm-debug.log
+
+# Carpeta de compilación de TypeScript
+/dist
+
+# Archivos de configuración locales
+.env
+
+# Dependencias de desarrollo
+/devDependencies
+
+# Carpetas específicas del editor
+.vscode
+.idea
+
+# Archivos de registro y caché
+*.log

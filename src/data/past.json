@@ -1,0 +1,68 @@
+{
+    "acertijos": [
+        {
+            "id": 1,
+            "pregunta": "En la antigüedad fui un símbolo de poder y sabiduría, pero ahora soy solo un recuerdo en piedra. ¿Qué soy?",
+            "opciones": [
+                "Una escultura",
+                "Una reliquia",
+                "Una estatua"
+            ],
+            "respuesta": "Una estatua"
+        },
+        {
+            "id": 2,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        },
+        {
+            "id": 3,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        },
+        {
+            "id": 4,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        },
+        {
+            "id": 5,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        },
+        {
+            "id": 6,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        },
+        {
+            "id": 7,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        },
+        {
+            "id": 8,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        },
+        {
+            "id": 9,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        },
+        {
+            "id": 10,
+            "pregunta": "",
+            "opciones": [],
+            "respuesta": ""
+        }
+    ]
+}
