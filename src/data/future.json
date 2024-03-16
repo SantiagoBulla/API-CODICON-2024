@@ -1,0 +1,104 @@
+{
+    "acertijos": [
+        {
+            "id": 1,
+            "pregunta": "Sin ser pájaro ni pez, cruzo el cielo sin alas. ¿Qué soy?",
+            "opciones": [
+                "Un correo electrónico",
+                "Un dron",
+                "Un cometa"
+            ],
+            "respuesta": "Un dron"
+        },
+        {
+            "id": 2,
+            "pregunta": "Puedo responder a todas tus preguntas en un instante, pero no soy una persona. ¿Qué soy?",
+            "opciones": [
+                "Un amigo imaginario",
+                "Un robot conversacional",
+                "Un libro de sabiduría"
+            ],
+            "respuesta": "Un robot conversacional"
+        },
+        {
+            "id": 3,
+            "pregunta": "Puedo sentir, pero no tengo piel. ¿Qué soy?",
+            "opciones": [
+                "Un animal",
+                "Un sensor biométrico",
+                "Un traje espacial"
+            ],
+            "respuesta": "Un sensor biométrico"
+        },
+        {
+            "id": 4,
+            "pregunta": "En el campo me encontrarás, con hojas verdes y gran bondad. En infusiones me hallarás, curando males con facilidad.",
+            "opciones": [
+                "Un árbol frondoso",
+                "Un río caudaloso",
+                "Una planta medicinal"
+            ],
+            "respuesta": "Una planta medicinal"
+        },
+        {
+            "id": 5,
+            "pregunta": "Acertijo: Siempre en el futuro, nunca en el presente. ¿Qué es?",
+            "opciones": [
+                "La profecía",
+                "El pasado",
+                "La anticipación "
+            ],
+            "respuesta": "La profecía"
+        },
+        {
+            "id": 6,
+            "pregunta": "Estás escapando de un laberinto, y tienes 3 puertas delante. La puerta de la izquierda lleva a un ardiente infierno. La puerta del centro a un brutal asesino. Y la puerta de la derecha a un león que no ha comido en 3 meses. ¿Qué puerta escoges para salvarte?",
+            "opciones": [
+                "La Puerta de la izquierda",
+                "La puerta del centro",
+                "La puerta de la derecha"
+            ],
+            "respuesta": "La puerta de la derecha"
+        },
+        {
+            "id": 7,
+            "pregunta": "Mi padre tiene 31 años y yo 8. Cuando él tenga el doble de años que yo. ¿Qué edad tendré?",
+            "opciones": [
+                "16",
+                "20",
+                "23"
+            ],
+            "respuesta": "23"
+        },
+        {
+            "id": 8,
+            "pregunta": "Si miras al futuro, pero no puedes ver nada, ¿qué estás mirando?",
+            "opciones": [
+                "Un espejo",
+                "La anticipación ",
+                "La incertidumbre"
+            ],
+            "respuesta": "La incertidumbre"
+        },
+        {
+            "id": 9,
+            "pregunta": "En la vasta extensión de la granja, donde los animales pastan libres y el aire huele a tierra fértil, hay un ser manso y generoso que nos brinda su leche y su compañía. ¿Qué es?",
+            "opciones": [
+                "La cabra",
+                "La oveja",
+                "La vaca"
+            ],
+            "respuesta": "La vaca"
+        },
+        {
+            "id": 10,
+            "pregunta": "En las alturas de la montaña, donde el viento sopla frío, un elemento natural se destaca por su pureza y su brillo",
+            "opciones": [
+                "El agua",
+                "La nieve",
+                "El diamante"
+            ],
+            "respuesta": "La nieve"
+        }
+    ]
+}

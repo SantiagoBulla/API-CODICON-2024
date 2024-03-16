@@ -3,7 +3,7 @@ import { getDataFromJSON, getPuzzleFromJSON } from '../utils/methods.js';
 //Get all the past puzzles
 const getAllPuzzle = (req, res) => {
     try {
-        const data = getDataFromJSON('src/data/past.json');
+        const data = getDataFromJSON('src/data/future.json');
         const puzzles = data.acertijos; //select the acertijo atribute 
         res.json(puzzles);
     } catch (error) {
@@ -18,7 +18,7 @@ const getPuzzleById = (req, res) => {
         if (id > 10 || id < 0) {
             res.status(400).json({ message: `id ${id} is below or exceeds existing ids in the data` });
         } else {
-            const puzzle = getPuzzleFromJSON('src/data/past.json', id);
+            const puzzle = getPuzzleFromJSON('src/data/future.json', id);
             res.json(puzzle);
         }
     } catch (error) {

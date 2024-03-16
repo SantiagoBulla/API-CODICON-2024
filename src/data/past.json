@@ -12,57 +12,93 @@
         },
         {
             "id": 2,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "En la oscuridad me encuentro, pero nunca soy visto. Soy la sombra de algo que ya no existe. ¿Qué soy?",
+            "opciones": [
+                "Un fantasma",
+                "Un recuerdo",
+                "Un eco"
+            ],
+            "respuesta": "Un recuerdo"
         },
         {
             "id": 3,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "En el pasado fui un símbolo de riqueza y poder, pero ahora soy solo una pieza de museo. ¿Qué soy?",
+            "opciones": [
+                "Un cetro",
+                "Un medallón",
+                "Un bastón"
+            ],
+            "respuesta": "Un cetro"
         },
         {
             "id": 4,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "En la antigüedad, me usaban para guardar secretos y mensajes importantes, pero ahora mi función ha cambiado completamente. ¿Qué soy?",
+            "opciones": [
+                "Un mensaje cifrado",
+                "Un mapa secreto",
+                "Un pergamino"
+            ],
+            "respuesta": "Un pergamino"
         },
         {
             "id": 5,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "En el pasado, se me consideraba un amuleto de protección contra el mal, pero ahora soy solo una curiosidad arqueológica. ¿Qué soy?",
+            "opciones": [
+                "Un talismán",
+                "Un amuleto encantado",
+                "Una reliquia divina"
+            ],
+            "respuesta": "Un talismán"
         },
         {
             "id": 6,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "En tiempos antiguos, se creía que podía conceder deseos, pero en realidad solo era una ilusión. ¿Qué soy?",
+            "opciones": [
+                "Una lámpara mágica",
+                "Un hada",
+                "Un hechizo"
+            ],
+            "respuesta": "Una lámpara mágica"
         },
         {
             "id": 7,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "En el pasado, se me consideraba un instrumento de tortura, pero en realidad solo era un objeto de castigo. ¿Qué soy?",
+            "opciones": [
+                "Una horca",
+                "Una espada",
+                "Una trampa"
+            ],
+            "respuesta": "Una horca"
         },
         {
             "id": 8,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "En el lienzo del tiempo me proyecto, una visión de lo que será. Soy la sombra de tus elecciones, la realidad que deberás enfrentar. ¿Qué soy?",
+            "opciones": [
+                "El destino",
+                "La premonición",
+                "La consecuencia"
+            ],
+            "respuesta": "La consecuencia"
         },
         {
             "id": 9,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "En el telar del tiempo me entretejo, un tapiz de experiencias por vivir. Soy la hebra de tus decisiones, el hilo que debes seguir. ¿Qué soy?",
+            "opciones": [
+                "El destino",
+                "La trama",
+                "El tejido"
+            ],
+            "respuesta": "La trama"
         },
         {
             "id": 10,
-            "pregunta": "",
-            "opciones": [],
-            "respuesta": ""
+            "pregunta": "Fui utilizado por los antiguos para comunicarse a largas distancias, sin embargo, hoy en día mi uso es casi nulo. ¿Qué soy?",
+            "opciones": [
+                "Un cuervo",
+                "Una carta",
+                "Una paloma mensajera"
+            ],
+            "respuesta": "Una paloma mensajera"
         }
     ]
 }

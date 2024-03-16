@@ -1,17 +1,18 @@
 import express from 'express';
-import cors from 'cors';
+import pastRouter from './src/routes/past.router.js';
+import futureRouter from './src/routes/future.router.js';
 
 //Server configuration
 const app = express();
 const PORT = 9000;
 
-app.use(cors({
-    /* port 4321*/
-}));
+//routes
+app.use('/api/past/', pastRouter);
+app.use('/api/future/', futureRouter);
 
 // index route
 app.get('/api', (req, res) => {
-    res.json({ "users": ["John", "Nicolas", "Santiago"] });
+    res.json({ message: 'Wellcome to Pandemission' });
 });
 
 
