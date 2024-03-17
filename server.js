@@ -1,10 +1,19 @@
 import express from 'express';
+import cors from 'cors';
 import pastRouter from './src/routes/past.router.js';
 import futureRouter from './src/routes/future.router.js';
 
 //Server configuration
 const app = express();
 const PORT = 9000;
+
+//middleware
+app.use(cors({
+    origin: 'http://localhost:4321', // URl front-end
+	methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',//metodos permitidos
+	credentials: true,//crendenciales correctas 
+	optionsSuccessStatus: 204,//codigo de estado sin contenido
+}));
 
 //routes
 app.use('/api/past/', pastRouter);
