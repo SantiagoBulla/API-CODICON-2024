@@ -9,7 +9,7 @@ const PORT = 9000;
 
 //middleware
 app.use(cors({
-    origin: 'https://codicon-2024.vercel.app/', // URl front-end
+    origin: 'https://codicon-2024.vercel.app', // URl front-end
 	methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',//metodos permitidos
 	credentials: true,//crendenciales correctas 
 	optionsSuccessStatus: 204,//codigo de estado sin contenido
